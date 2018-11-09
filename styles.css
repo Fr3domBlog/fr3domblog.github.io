@@ -60,11 +60,11 @@ body {
   color: white;
 }
 a {
-  color: white;
+  color: lightgrey;
   text-decoration: none;
 }
 a:hover {
-  color: #A9A9A9;
+  color: grey;
 }
 .post {
   max-width: 800px;
