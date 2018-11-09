@@ -44,7 +44,7 @@ body {
   background-color: #000000;
   height: 100px;
   line-height: 100px;
-  margin: 0;
+  margin: 0 auto;
 }
 .column {
   min-width: 300px;
